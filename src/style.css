@@ -49,7 +49,7 @@ header {
   font-size: 12px;
 }
 
-a.is-active {
+a.is-active, .link__blue {
   color: var(--blue-color);
 }
 
