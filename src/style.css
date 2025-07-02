@@ -68,6 +68,6 @@ a.is-active::after {
   margin-left: 24px;
 }
 
-.main-nav__link:hover {
+.link__blue:hover {
   color: var(--blue-color);
 }
