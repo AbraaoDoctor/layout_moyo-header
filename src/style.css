@@ -1,3 +1,9 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
 html {
   --blue-color: #00acdc;
 }
@@ -68,6 +74,6 @@ a.is-active::after {
   margin-left: 24px;
 }
 
-.link__blue:hover {
+.main-nav__link:hover {
   color: var(--blue-color);
 }
