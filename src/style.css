@@ -78,6 +78,6 @@ a.is-active::after {
   margin-left: 20px;
 }
 
-a[data-qa="hover"]:hover {
+.main-nav__link:hover {
   color: var(--blue-color);
 }
