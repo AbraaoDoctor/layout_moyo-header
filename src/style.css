@@ -28,6 +28,10 @@ header {
   overflow: hidden;
 }
 
+.link__image {
+  display: flex;
+}
+
 .logo__image {
   height: 40px;
   width: 40px;
@@ -71,7 +75,7 @@ a.is-active::after {
 }
 
 .main-nav__item:not(:first-child) {
-  margin-left: 24px;
+  margin-left: 20px;
 }
 
 .main-nav__link:hover {
